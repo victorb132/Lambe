@@ -7,8 +7,13 @@
     "test": "jest"
   },
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "^0.19.2",
+    "base": "^3.0.0",
+    "cache-base": "^4.0.0",
+    "handlebars": "^4.7.2",
+    "istanbul-api": "^2.1.6",
     "jetifier": "^1.6.5",
+    "lodash": "^4.17.15",
     "react": "16.4.1",
     "react-native": "0.56.0",
     "react-native-gravatar": "1.0.2",
