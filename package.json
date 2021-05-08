@@ -13,7 +13,7 @@
     "handlebars": "^4.7.2",
     "istanbul-api": "^2.1.6",
     "jetifier": "^1.6.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "16.4.1",
     "react-native": "0.56.0",
     "react-native-gravatar": "1.0.2",
