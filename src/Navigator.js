@@ -58,5 +58,6 @@ const MenuConfig = {
     }
 }
 
-const MenuNavigator = createBottomTabNavigator(MenuRoutes, MenuConfig)
+const MenuNavigator = createBottomTabNavigator(MenuRoutes, MenuConfig);
+
 export default MenuNavigator
